@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Base URL for now: https://trevorparker-hash.github.io/trevorg/
+  When the site moves to its own domain, replace that base everywhere it appears:
+  every <loc> below, the Sitemap line in robots.txt, the canonical, og:url, og:image
+  and twitter:image tags in the <head> of each page, and the JSON-LD blocks.
+  One search-and-replace across the repo does it. (404.html works out its own base.)
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://trevorparker-hash.github.io/trevorg/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://trevorparker-hash.github.io/trevorg/games/engagement/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://trevorparker-hash.github.io/trevorg/games/fight/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://trevorparker-hash.github.io/trevorg/games/street-takeover/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://trevorparker-hash.github.io/trevorg/games/field-surgeon/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://trevorparker-hash.github.io/trevorg/press/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+</urlset>

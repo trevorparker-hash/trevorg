@@ -1,0 +1,328 @@
+[
+ {
+  "id": "engagement",
+  "name": "Engagement",
+  "appid": 5195200,
+  "demo_appid": 5195210,
+  "store_url": "https://store.steampowered.com/app/5195200/",
+  "short_description": "One capital ship. Fifteen minutes until relief. Bolt salvaged guns onto your hull, raise a fleet of named escorts who rank up and branch, and hold the lane against a Hollow swarm that grows every minute you survive.",
+  "genres": [
+   "Action",
+   "Indie",
+   "RPG",
+   "Strategy"
+  ],
+  "categories": [
+   "Single-player",
+   "Camera Comfort",
+   "Custom Volume Controls",
+   "Adjustable Difficulty",
+   "Mouse Only Option",
+   "#category_playable_at_your_own_pace",
+   "Playable without Timed Input",
+   "Save Anytime",
+   "Family Sharing"
+  ],
+  "release": {
+   "coming_soon": true,
+   "date": "Q4 2026"
+  },
+  "about_html": "<h2 class=\"bb_tag\" ><strong>Relief is fifteen minutes out. The Hollow will be here in one.</strong></h2><p class=\"bb_paragraph\" >You command a single Concord capital ship in the Belt of Ashes. Everything you destroy drops salvage, and every level bolts something onto your hull: flak batteries, rail cannons, tesla coils, drone hangars, shield domes. Each one is a real turret on a real hardpoint. By minute ten your ship looks like the build you chose, and it fights like it.</p><p class=\"bb_paragraph\" >You do not fight alone. Recruit escorts, send them where you need them, and promote the ones who live. A Lance that survives long enough takes a specialist commission and comes back with a new gun. A pilot who does not goes on the memorial wall with their rank, callsign, branch and kills.</p><p class=\"bb_paragraph\" >The Hollow do not negotiate. They come in swarms, then in capital ships, then in things the Signals Office has stopped trying to name. You will see them coming: every charged beam, arcing pulse and incoming torpedo is marked on screen and in your ears before it lands.</p><h2 class=\"bb_tag\" ><strong>Every upgrade changes how you fight.</strong></h2><p class=\"bb_paragraph\" > There are no &quot;+8% damage&quot; cards. A refit might blow armour plates off into a flak burst when your hull is hit, relaunch a lost fighter wing, or turn your first volley into guaranteed critical hits. Your drydock, your mastery and your doctrines work the same way: mechanics you can see, not numbers you have to trust.</p><h2 class=\"bb_tag\" ><strong>Features</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Six flagships</strong>, from a line cruiser to a carrier to a cloaking raider, each with its own hardpoint layout, signature system and tree of seven refits.</p></li><li><p class=\"bb_paragraph\" ><strong>25 modules and 15 evolutions.</strong> Max a module, pair it with the right partner, and it becomes something else.</p></li><li><p class=\"bb_paragraph\" ><strong>A fleet that grows with you.</strong> Nine escort classes to recruit, order, promote and branch. Pilots keep their callsigns, ranks and records.</p></li><li><p class=\"bb_paragraph\" ><strong>21 Hollow ship types</strong> across five sectors, each sector with its own hazard: ice shard storms, a collapsing dead shipyard, a lightning nebula that halves your sensors, and Hollow space itself.</p></li><li><p class=\"bb_paragraph\" ><strong>Bosses with phases:</strong> the Reaver dreadnought, the Maw that swallows escorts whole, the Choir that sings its dead back, and the Hollow Crown.</p></li><li><p class=\"bb_paragraph\" ><strong>Campaign:</strong> three acts on a branching map where your hull, modules and pilots carry forward between fights. Eight keepers run the shops, from a salvage broker to a mercenary post to a chapel that keeps the lost, plus a dealer in Hollow-tech the Concord would rather you did not meet.</p></li><li><p class=\"bb_paragraph\" ><strong>A service record that lasts.</strong> Forty Command ranks, mastery for every flagship with perks of its own, nine doctrines that trade a strength for a weakness, a drydock of seventeen upgrades, and weekly commissions.</p></li><li><p class=\"bb_paragraph\" ><strong>Endless, Daily, Boss Rush and Challenge modes</strong>, and a Heat ladder for when fifteen minutes stops being enough.</p></li><li><p class=\"bb_paragraph\" ><strong>A launch you will want to watch:</strong> every sortie opens with your ship leaving its yard cradle and burning out of the system.</p></li><li><p class=\"bb_paragraph\" ><strong>Chase or bridge camera</strong>, photo mode, full controller support with Steam Deck button prompts, and 70 Steam achievements.</p></li><li><p class=\"bb_paragraph\" ><strong>Accessibility:</strong> colourblind palettes (protanopia, deuteranopia, tritanopia, high contrast), UI and HUD scale, reduced motion, reduced flashes, hold or toggle for boost and the orders wheel, remappable keys, aim assist, adjustable damage taken, and radio chatter shown on screen.</p></li></ul>",
+  "assets": {
+   "main_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/bec3b698c000964d90f6ece2f1610beb3218d365/capsule_616x353.jpg",
+   "main_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/bec3b698c000964d90f6ece2f1610beb3218d365/capsule_616x353_2x.jpg",
+   "small_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/90c8bbd207864368398d6105b09569e2abdc3005/capsule_231x87.jpg",
+   "small_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/90c8bbd207864368398d6105b09569e2abdc3005/capsule_231x87_2x.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/86be6fbc1f8f64602020acee97a806294011a0d5/header.jpg",
+   "header_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/86be6fbc1f8f64602020acee97a806294011a0d5/header_2x.jpg",
+   "page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/e613eb2de7a3c695bb3b1c144c66b18b2759b031/page_bg_v6.jpg",
+   "hero_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/74389861e0cec6c0e72e8dc6eb3d4bb825f8415c/hero_capsule.jpg",
+   "hero_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/74389861e0cec6c0e72e8dc6eb3d4bb825f8415c/hero_capsule_2x.jpg",
+   "library_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/f3c3556763f2dce73cb564582b3c2b93f09cc790/library_capsule.jpg",
+   "library_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/f3c3556763f2dce73cb564582b3c2b93f09cc790/library_capsule_2x.jpg",
+   "library_hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/77b6e8987c56c8fcf16e04876cd2b3f37d2b2d3c/library_hero.jpg",
+   "library_hero_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/77b6e8987c56c8fcf16e04876cd2b3f37d2b2d3c/library_hero_2x.jpg",
+   "raw_page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/e613eb2de7a3c695bb3b1c144c66b18b2759b031/page_bg_raw.jpg"
+  },
+  "screenshots": [
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/2ba4a36a53ebc67d0e87e695c2ec925cd06e5a41/ss_2ba4a36a53ebc67d0e87e695c2ec925cd06e5a41.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/ea4c0d12b05b5b88e80183afe9eb90d17ca19fa1/ss_ea4c0d12b05b5b88e80183afe9eb90d17ca19fa1.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/ec9afa4ad667f42fea80991af3460029bc42d0d5/ss_ec9afa4ad667f42fea80991af3460029bc42d0d5.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/6c97d987bc04d934dfcd5ec6ed5e72bd356a852c/ss_6c97d987bc04d934dfcd5ec6ed5e72bd356a852c.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/2d82c9abeb7a943015c302c6bc4d04f27b8b8c13/ss_2d82c9abeb7a943015c302c6bc4d04f27b8b8c13.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/043f73c45b60ebe48c478b52681679dd02379039/ss_043f73c45b60ebe48c478b52681679dd02379039.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/bc5c43c70b6cf7cf5939a9d613655e2d2c298fee/ss_bc5c43c70b6cf7cf5939a9d613655e2d2c298fee.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/2fe3beba33f7e2d6e1330fae35c621b293436612/ss_2fe3beba33f7e2d6e1330fae35c621b293436612.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/cffdd36f2de8fa2f4d9cde448ff47873bd6eef19/ss_cffdd36f2de8fa2f4d9cde448ff47873bd6eef19.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/7ccf6a0a16fc1bd92c5b0b4681e444059dbee84a/ss_7ccf6a0a16fc1bd92c5b0b4681e444059dbee84a.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/4b3e80c6e6d813d0601ef96698b6b3909ef6872a/ss_4b3e80c6e6d813d0601ef96698b6b3909ef6872a.1920x1080.jpg?t=1790903186",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195200/bfd5a1bf9962bb2f55d7fdf7cade238126927dae/ss_bfd5a1bf9962bb2f55d7fdf7cade238126927dae.1920x1080.jpg?t=1790903186"
+  ],
+  "movies": [
+   {
+    "name": "Gameplay Trailer",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5195200/528018922/276edff09c79f2e333c4d86f15d9eacaa997fe8c/1790638397/hls_264_master.m3u8?t=1790646404",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5195200/528018922/276edff09c79f2e333c4d86f15d9eacaa997fe8c/1790638397/dash_h264.mpd?t=1790646404",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257439103/ee351fc767f02e26dbd3a3dc026e76ccf8b1e95b/movie_600x337.jpg?t=1790646404"
+   },
+   {
+    "name": "Teaser Trailer",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5195200/959716904/e7ec58be69a70d776c6a9941882cf8bfd3dd549f/1790638637/hls_264_master.m3u8?t=1790639560",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5195200/959716904/e7ec58be69a70d776c6a9941882cf8bfd3dd549f/1790638637/dash_h264.mpd?t=1790639560",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257439104/28b9f937646658fa6b69cae569fba7d5c62b0d2a/movie_600x337.jpg?t=1790639560"
+   },
+   {
+    "name": "Dev Diary 1",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5195200/1792513788/f2a3e659d309fcb00d79165b91ee2b61ed671876/1790643917/hls_264_master.m3u8?t=1790646405",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5195200/1792513788/f2a3e659d309fcb00d79165b91ee2b61ed671876/1790643917/dash_h264.mpd?t=1790646405",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257439150/77685636317eb2fc76cd0ffc543012071dae3678/movie_600x337.jpg?t=1790646405"
+   }
+  ]
+ },
+ {
+  "id": "fight",
+  "name": "FIGHT",
+  "appid": 5200410,
+  "demo_appid": 5200560,
+  "store_url": "https://store.steampowered.com/app/5200410/",
+  "short_description": "Let's FIGHT. Queue your steps, guards, and strikes, then commit blind and watch both plans collide into skill based warfare. Master over twenty weapon-bound fighters, posture breaks, parries, projectiles with real time replays to watch the battle back in style.",
+  "genres": [
+   "Action",
+   "Indie",
+   "Strategy",
+   "Early Access"
+  ],
+  "categories": [
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "LAN PvP",
+   "Shared/Split Screen PvP",
+   "Shared/Split Screen",
+   "Steam Achievements",
+   "Captions available",
+   "Adjustable Text Size",
+   "Camera Comfort",
+   "Color Alternatives",
+   "Custom Volume Controls",
+   "Adjustable Difficulty",
+   "Keyboard Only Option",
+   "Mouse Only Option",
+   "#category_playable_at_your_own_pace",
+   "Playable without Timed Input",
+   "Stereo Sound",
+   "Remote Play Together",
+   "Family Sharing"
+  ],
+  "release": {
+   "coming_soon": true,
+   "date": "Coming soon"
+  },
+  "about_html": "<h2 class=\"bb_tag\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/cadba2c54f80da95dfbfcfa516545ca8.poster.avif?t=1790904581\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/cadba2c54f80da95dfbfcfa516545ca8.webm?t=1790904581\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/cadba2c54f80da95dfbfcfa516545ca8.mp4?t=1790904581\" type=\"video/mp4\"></video></span></h2><p class=\"bb_paragraph\" style=\"text-align: center\">FIGHT is a tactical fighting game about hidden plans. Queue movement, guards, strikes, and special attacks on a shared timeline. Commit before you know the opposing plan. Then watch the two sequences meet in real time.\u00a0FIGHT rewards choices made before impact. Close the distance with aggressive strikes, hold ground with guards and parries, create space for a projectile, or use movement to bait an answer.</p><p class=\"bb_paragraph\" style=\"text-align: center\"> </p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/e25d25062f62bc492e4e36047eb4fc77.poster.avif?t=1790904581\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/e25d25062f62bc492e4e36047eb4fc77.webm?t=1790904581\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/e25d25062f62bc492e4e36047eb4fc77.mp4?t=1790904581\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Choose from over twenty weapon-led fighters. Each move set changes the questions you ask: who controls distance, who threatens a guard, and which attack creates space for the next plan. Learn what every fighter can represent before both players lock in.\u00a0</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/0992d9f6133779b3fc7d7f3b0c0c4217.poster.avif?t=1790904581\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/0992d9f6133779b3fc7d7f3b0c0c4217.webm?t=1790904581\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/0992d9f6133779b3fc7d7f3b0c0c4217.mp4?t=1790904581\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Choose the arena before the round begins. Every stage frames the same focused duel on a 2.5D combat plane, where spacing, timing, and your opponent\u2019s next decision stay visible.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/2842a880adae6afb2b181da050a5c936.poster.avif?t=1790904581\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/2842a880adae6afb2b181da050a5c936.webm?t=1790904581\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/2842a880adae6afb2b181da050a5c936.mp4?t=1790904581\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Every action has a place on the timeline. Build a chain of movement, defense, strikes, and specials, then commit blind. You do not see the opposing sequence until both plans resolve. Damage matters, but posture creates the opening: pressure a guarded opponent, force a response, and turn a broken defense into a punish.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/24cebec4901163e31a66cd66e9e16d74.poster.avif?t=1790904581\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/24cebec4901163e31a66cd66e9e16d74.webm?t=1790904581\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/extras/24cebec4901163e31a66cd66e9e16d74.mp4?t=1790904581\" type=\"video/mp4\"></video></span></p><p class=\"bb_paragraph\" style=\"text-align: center\">Once both players commit, the fight runs in real time. Watch the collision, pause on the decision that changed the exchange, and replay the sequence to see how a guard, parry, strike, projectile, or repositioning determined the result.</p><p class=\"bb_paragraph\" ></p>",
+  "assets": {
+   "main_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/db6ed4c443cefcc23242f1366631765db038029f/capsule_616x353.jpg",
+   "main_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/db6ed4c443cefcc23242f1366631765db038029f/capsule_616x353_2x.jpg",
+   "small_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/e167c0aac7c7c0ca82ebe362a0b93362451ec854/capsule_231x87.jpg",
+   "small_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/e167c0aac7c7c0ca82ebe362a0b93362451ec854/capsule_231x87_2x.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/d2346c22bb43b24c33a93523ea6594885ea14636/header.jpg",
+   "header_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/d2346c22bb43b24c33a93523ea6594885ea14636/header_2x.jpg",
+   "page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/b2d552baf2e07676ea88c6fb34daa4f9d9ebe87b/page_bg_v6.jpg",
+   "hero_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/27d134570376177cf0885290f8dfade483410b35/hero_capsule.jpg",
+   "hero_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/27d134570376177cf0885290f8dfade483410b35/hero_capsule_2x.jpg",
+   "library_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/231276454795051e203c11a046e77a45d8542cbe/library_capsule.jpg",
+   "library_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/231276454795051e203c11a046e77a45d8542cbe/library_capsule_2x.jpg",
+   "library_hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/6fb8946adacdb6140b1bdb22cfc7fa590cfee632/library_hero.jpg",
+   "library_hero_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/6fb8946adacdb6140b1bdb22cfc7fa590cfee632/library_hero_2x.jpg",
+   "raw_page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/b2d552baf2e07676ea88c6fb34daa4f9d9ebe87b/page_bg_raw.jpg"
+  },
+  "screenshots": [
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/37698a2dfaf8fd5d6f234f0f5b1da41a4c4f1433/ss_37698a2dfaf8fd5d6f234f0f5b1da41a4c4f1433.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/26c54089554fd18d672b0cdc30aab76e7c53642b/ss_26c54089554fd18d672b0cdc30aab76e7c53642b.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/586ea7ba6c799c1e3bfda748107214cf3e89d95d/ss_586ea7ba6c799c1e3bfda748107214cf3e89d95d.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/5a55f2061b7cfa364f218b1b9b2f5343a1f7e9b2/ss_5a55f2061b7cfa364f218b1b9b2f5343a1f7e9b2.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/79186e6a54591423f68cf62986cf2923c73994ed/ss_79186e6a54591423f68cf62986cf2923c73994ed.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/f7008d4485fc8be43ab70fdef2c115ec8fe48ef4/ss_f7008d4485fc8be43ab70fdef2c115ec8fe48ef4.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/048b99a76436f104c04c5bda0e74cf74a0b757eb/ss_048b99a76436f104c04c5bda0e74cf74a0b757eb.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/8e78d8e80e9bac722d3edcf22d60921f122d371a/ss_8e78d8e80e9bac722d3edcf22d60921f122d371a.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/02fb177150255a8dee4f272388b7d0dcf5e674e5/ss_02fb177150255a8dee4f272388b7d0dcf5e674e5.1920x1080.jpg?t=1790904581",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200410/e2410dc80d2e84cc40a13f5becfffb03a59dcc31/ss_e2410dc80d2e84cc40a13f5becfffb03a59dcc31.1920x1080.jpg?t=1790904581"
+  ],
+  "movies": [
+   {
+    "name": "Teaser",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5200410/1533999931/62a3dac58495f85bd6c8b2ed38ef201d3369f280/1790899372/hls_264_master.m3u8?t=1790901693",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5200410/1533999931/62a3dac58495f85bd6c8b2ed38ef201d3369f280/1790899372/dash_h264.mpd?t=1790901693",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257416964/fa46fc308b6b4a8dba0d751205b3bc262d1b8e4c/movie_600x337.jpg?t=1790901693"
+   },
+   {
+    "name": "Cine",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5200410/1538266378/6dc1fc8a3b1b5a6a99ba127fde9bb08813008cb7/1790899372/hls_264_master.m3u8?t=1790901694",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5200410/1538266378/6dc1fc8a3b1b5a6a99ba127fde9bb08813008cb7/1790899372/dash_h264.mpd?t=1790901694",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257443377/fb07f1be328b38093fb6ee14d7b50991c40e4b8e/movie_600x337.jpg?t=1790901694"
+   }
+  ]
+ },
+ {
+  "id": "street-takeover",
+  "name": "Street Takeover",
+  "appid": 5311310,
+  "demo_appid": 5311330,
+  "store_url": "https://store.steampowered.com/app/5311310/",
+  "short_description": "Drive Fast. Pit Harder. Takeover. Street Takeover is a racing game about high speed police chases, wrecked and damaged car physics, and taking on the county from the racer's seat or leading it's police force in cleaning up the town.",
+  "genres": [
+   "Indie",
+   "Massively Multiplayer",
+   "Racing"
+  ],
+  "categories": [
+   "Single-player",
+   "Multi-player",
+   "PvP",
+   "Online PvP",
+   "LAN PvP",
+   "Family Sharing"
+  ],
+  "release": {
+   "coming_soon": true,
+   "date": "Coming soon"
+  },
+  "about_html": "<h2 class=\"bb_tag\" >Drive Fast. Pit Harder. Takeover.\u00a0</h2><p class=\"bb_paragraph\" >Street Takeover is a racing game built around crashes that actually matter.</p><p class=\"bb_paragraph\" >Hit a wall and the car takes the hit. Lose a bumper and it stays gone. Bend a wheel and you will feel it through the next corner. Skip the repair bill and take the damage into the next race. If the car gets written off, it is gone.</p><p class=\"bb_paragraph\" >And the police are learning while you are learning.</p><p class=\"bb_paragraph\" ></p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/d2b81784d58ed64c58f9bdd6d40fb6fd.poster.avif?t=1790787997\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/d2b81784d58ed64c58f9bdd6d40fb6fd.webm?t=1790787997\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/d2b81784d58ed64c58f9bdd6d40fb6fd.mp4?t=1790787997\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Two Ways to Play</h2><p class=\"bb_paragraph\" >Play the getaway campaign and try to stay ahead of a county-wide police response that changes based on what you have already done.</p><p class=\"bb_paragraph\" >Start with one cruiser on a back road. Keep causing trouble and the response gets heavier: more units, unmarked cars, spike strips, roadblocks, bridge blocks, and eventually the state detail.</p><p class=\"bb_paragraph\" >Then play those same ten nights from the other side.</p><p class=\"bb_paragraph\" >As police, you box runners in, call roadblocks, deploy spikes, and try to bring them home without wrecking your own cars. The two campaigns share the same roads, the same events, and the same county.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/26e7339c1f921b87d9f683febe9c40fa.poster.avif?t=1790787997\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/26e7339c1f921b87d9f683febe9c40fa.webm?t=1790787997\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/26e7339c1f921b87d9f683febe9c40fa.mp4?t=1790787997\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >The County Records You</h2><p class=\"bb_paragraph\" >Street Takeover tracks what happens during a run.</p><p class=\"bb_paragraph\" >Cars get damaged. Police units go off the road. Routes become familiar. The more attention you attract, the more prepared the county is the next time you show up.</p><p class=\"bb_paragraph\" >There is traffic and there are pedestrians, and hitting them will cost you.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/735a8091c500a10b1aa16912b4b99911.poster.avif?t=1790787997\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/735a8091c500a10b1aa16912b4b99911.webm?t=1790787997\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/735a8091c500a10b1aa16912b4b99911.mp4?t=1790787997\" type=\"video/mp4\"></video></span> </p><h2 class=\"bb_tag\" >A County Built to Drive</h2><p class=\"bb_paragraph\" >18 locations. 42 roads. Farms, city streets, mountain passes, coast roads, industrial docks, winter routes and back roads.</p><p class=\"bb_paragraph\" >Every route can be driven in either direction, and the weather and time of day change how they handle.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/5bb6d5799480d0e1dfa640f572caf886.poster.avif?t=1790787997\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/5bb6d5799480d0e1dfa640f572caf886.webm?t=1790787997\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/5bb6d5799480d0e1dfa640f572caf886.mp4?t=1790787997\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Every Mode Covered</h2><p class=\"bb_paragraph\" >Run championships, time trials, drift events, demolition derbies, last-man-standing events, point-to-point sprints and special arena events.</p><p class=\"bb_paragraph\" >There are 20 cars to collect, 31 cups to complete, and a garage full of things to break.</p><p class=\"bb_paragraph\" ><span class=\"bb_img_ctn\"><video class=\"bb_img\" autoplay muted loop playsinline poster=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/81d2f9f31f618b23eedc9dcabb673f30.poster.avif?t=1790787997\" width=1170 height=658 ><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/81d2f9f31f618b23eedc9dcabb673f30.webm?t=1790787997\" type=\"video/webm; codecs=vp9\"><source src=\"https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/extras/81d2f9f31f618b23eedc9dcabb673f30.mp4?t=1790787997\" type=\"video/mp4\"></video></span></p><h2 class=\"bb_tag\" >Built For Your Driving Experience</h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" >Persistent Vehicle Damage: Bodywork, Wheels, Suspension, Glass, Engine and Radiator Damage all affect how the car drives.</p></li><li><p class=\"bb_paragraph\" >Single-player Campaigns for both Getaway Racers and Police</p></li><li><p class=\"bb_paragraph\" >Split-Screen Racing and Online Multiplayer</p></li><li><p class=\"bb_paragraph\" >Free Roam, Time Trial, Drift, Duel, Derby, Elimination and Points Events</p></li><li><p class=\"bb_paragraph\" >Keyboard, Gamepad, and Wheel Support with Rebindable Controls</p></li><li><p class=\"bb_paragraph\" >Photo Mode</p></li><li><p class=\"bb_paragraph\" >Driving School</p></li></ul>",
+  "assets": {
+   "main_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/a8ebbd99ca85fa8d26e276ecfcd18ffbc4d55b73/capsule_616x353.jpg",
+   "main_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/a8ebbd99ca85fa8d26e276ecfcd18ffbc4d55b73/capsule_616x353_2x.jpg",
+   "small_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/4009e35f4a5f0911fe366d0b720ac8669f1e591e/capsule_231x87.jpg",
+   "small_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/4009e35f4a5f0911fe366d0b720ac8669f1e591e/capsule_231x87_2x.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/1adda3f02fa8a200d0f6707eb6b1eb5ddff98495/header.jpg",
+   "header_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/1adda3f02fa8a200d0f6707eb6b1eb5ddff98495/header_2x.jpg",
+   "page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/9825599f728be522e54e3dc5eedeea5bd42b407a/page_bg_v6.jpg",
+   "hero_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/7ae84259c542ebc3565a7934183bf56d0f613f18/hero_capsule.jpg",
+   "hero_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/7ae84259c542ebc3565a7934183bf56d0f613f18/hero_capsule_2x.jpg",
+   "library_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/266f865ccb1b8d2e8d7e766bedf5f2bbf73d6551/library_capsule.jpg",
+   "library_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/266f865ccb1b8d2e8d7e766bedf5f2bbf73d6551/library_capsule_2x.jpg",
+   "library_hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/3983422f41019717eadac62dcca430ab7b3bd0ad/library_hero.jpg",
+   "library_hero_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/3983422f41019717eadac62dcca430ab7b3bd0ad/library_hero_2x.jpg",
+   "raw_page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/9825599f728be522e54e3dc5eedeea5bd42b407a/page_bg_raw.jpg"
+  },
+  "screenshots": [
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/700f71a9a5c352dd7511636d82b79f1f7ac0b2d6/ss_700f71a9a5c352dd7511636d82b79f1f7ac0b2d6.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/5789af5674e92e0f348ff758522a7988c6100cab/ss_5789af5674e92e0f348ff758522a7988c6100cab.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/1583c20ba4b289ce1254b5477bac9f3e5f8b8f66/ss_1583c20ba4b289ce1254b5477bac9f3e5f8b8f66.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/14502af7f3cb261b2f007dd93cd811b09989be3b/ss_14502af7f3cb261b2f007dd93cd811b09989be3b.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/3d3bd55c940a68177f54039c87550af1e016c101/ss_3d3bd55c940a68177f54039c87550af1e016c101.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/9a5af81bfc78727eae7e56e9cdbac6272dd8ff75/ss_9a5af81bfc78727eae7e56e9cdbac6272dd8ff75.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/dd5a488ab4e91943a3c86e3f0d47b619f6f1ee96/ss_dd5a488ab4e91943a3c86e3f0d47b619f6f1ee96.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/1dfd965462e573a42d1628de9e715dec138470e8/ss_1dfd965462e573a42d1628de9e715dec138470e8.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/a03c38e97e733087370fd0dcc0b685ba05ae67eb/ss_a03c38e97e733087370fd0dcc0b685ba05ae67eb.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/8392a6413f98c0f06c5d2405a9a3e22243de1af1/ss_8392a6413f98c0f06c5d2405a9a3e22243de1af1.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/f5671c501c25efaa16055be8c8548c3657800f5e/ss_f5671c501c25efaa16055be8c8548c3657800f5e.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/a87e840acc9b3ee2b176da6a770a197bb990872f/ss_a87e840acc9b3ee2b176da6a770a197bb990872f.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/808a4a0af4d8a09692ea3336def90dac7a2ed868/ss_808a4a0af4d8a09692ea3336def90dac7a2ed868.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/f61d650a93f4551c70af5db3a25c76f85b5593f6/ss_f61d650a93f4551c70af5db3a25c76f85b5593f6.1920x1080.jpg?t=1790787997",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5311310/8c94b527bcb39b8039c6e42595ed8571687a5883/ss_8c94b527bcb39b8039c6e42595ed8571687a5883.1920x1080.jpg?t=1790787997"
+  ],
+  "movies": [
+   {
+    "name": "Gameplay",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5311310/858133843/d37e38b9de706b95927e3f53f03f82efdecc6af6/1790784770/hls_264_master.m3u8?t=1790787993",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5311310/858133843/d37e38b9de706b95927e3f53f03f82efdecc6af6/1790784770/dash_h264.mpd?t=1790787993",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257441215/611fce85fa7e5b9777c63a822f3dcc9a49382c53/movie_600x337.jpg?t=1790787993"
+   },
+   {
+    "name": "Cinematic",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5311310/796107425/3afff2faf0629eb3235774683acf587438658eca/1790784620/hls_264_master.m3u8?t=1790787994",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5311310/796107425/3afff2faf0629eb3235774683acf587438658eca/1790784620/dash_h264.mpd?t=1790787994",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257441214/9e76bf7fa79e67f0a7f2fced51a2bbe1ba3efbbf/movie_600x337.jpg?t=1790787994"
+   },
+   {
+    "name": "Teaser",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5311310/1340307745/8c5e646e7c0e3fcd4b8c4a68357ea6e971d9705e/1790784380/hls_264_master.m3u8?t=1790787995",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5311310/1340307745/8c5e646e7c0e3fcd4b8c4a68357ea6e971d9705e/1790784380/dash_h264.mpd?t=1790787995",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257434901/1ccde5e6fc5700f764e2631c3480de19db366b54/movie_600x337.jpg?t=1790787995"
+   },
+   {
+    "name": "Dev Diary 1",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5311310/421945951/e86093811d75159ef939f09207bfff19fbad0d0a/1790784470/hls_264_master.m3u8?t=1790787996",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5311310/421945951/e86093811d75159ef939f09207bfff19fbad0d0a/1790784470/dash_h264.mpd?t=1790787996",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257437722/b2838b719f14246ab4fc84c0c1c9e7ccea21929e/movie_600x337.jpg?t=1790787996"
+   }
+  ]
+ },
+ {
+  "id": "field-surgeon",
+  "name": "Field Surgeon",
+  "appid": 5339030,
+  "demo_appid": null,
+  "store_url": "https://store.steampowered.com/app/5339030/",
+  "short_description": "Scrub in as a field surgeon in a plague-ridden free city at war. Humans, dwarves, elves, orcs, hornfolk and giants come to your table. Draw arrows from bone, close sabre cuts, saw shattered limbs, and face the Malison: a curse that fights back from inside your patients.",
+  "genres": [
+   "Indie",
+   "RPG",
+   "Simulation"
+  ],
+  "categories": [
+   "Single-player",
+   "Family Sharing"
+  ],
+  "release": {
+   "coming_soon": true,
+   "date": "Coming soon"
+  },
+  "about_html": "<h2 class=\"bb_tag\" ><strong>Kessendorf is dying, one patient at a time.</strong> </h2><p class=\"bb_paragraph\" >Plague smoulders in the Tanners' Rows, the Ostrau company is fighting at the city's gates, and the Hospice of Saint Ildra takes in everyone the city throws away. You are its newly sworn apothecary-surgeon, and the table is never empty.</p><h2 class=\"bb_tag\" ><strong>Surgery the way it was done as a Sawdoctor.</strong></h2><p class=\"bb_paragraph\" > Eight period instruments: lancet, tongs, leech-pipe, gut thread, Saint's salve, tincture, cautery brand and scrying lens, each with its own motion. Ease an arrow through the muscle that grips it, rock a head loose from the bone, close a sabre cut muscle first and skin second, soften boiling pitch before you lift it, wind a tourniquet before you look for the bleeding vessel, and seal a sucking chest wound as the patient breathes out. Every action is graded; clean chains raise your rank.</p><h2 class=\"bb_tag\" ><strong>Every patient comes from a different culture with it's own\u00a0</strong></h2><p class=\"bb_paragraph\" > Six races to learn. Humans, dwarves, elves, orcs, hornfolk and giants all come through the Hospice doors, and no two cut, bleed or heal alike. A dwarf's hide is thick and his blood dark and slow; the lancet must work patiently. An elf's skin is so thin the lamp glows through it: easy to open, quick to bleed, and unforgiving of a slip. An orc's leather hide turns a hasty blade, his near-black blood clots fast, and tinctures barely touch him. A giant bleeds out slowly and heals slower still. Know your patient before you cut.</p><h2 class=\"bb_tag\" ><strong>A prayer that stops the clock or could send you to the pyre.</strong> </h2><p class=\"bb_paragraph\" >Draw the five-pointed sign to invoke the Litany of Stillness and slow time for a few precious seconds, once per operation. Careful, if The Inquisitor of the Ash Tribunal sees, he would condemn you for witchcraft.</p><h2 class=\"bb_tag\" ><strong>Bosses that live inside your patients.</strong> </h2><p class=\"bb_paragraph\" >A heretic coven, the Hollow Choir, weaves living curses named for the canonical hours: Matins, Lauds, Prime and five more. Each Malison fights back with its own phases and tricks, and each one leaves a mark on the city.</p><h2 class=\"bb_tag\" ><strong>A grim story told in candle smoke and ink.</strong>\u00a0</h2><p class=\"bb_paragraph\" >Story chapters between operations, set to an orchestral and medieval score: guild politics, witch hunts, field hospitals, black humour, and the question of what a healer owes a city that burns its sick.</p><h2 class=\"bb_tag\" ><strong>Feature bullets</strong></h2><ul class=\"bb_ul\"><li><p class=\"bb_paragraph\" ><strong>Five chapters, over sixty operations, eight Malison Hours:</strong> a surgery-action campaign in a grimdark early-modern world</p></li><li><p class=\"bb_paragraph\" ><strong>Injuries surgeons really faced:</strong> arrows, sabre cuts, crushing mace blows, boiling pitch, severed arteries, amputations</p></li><li><p class=\"bb_paragraph\" ><strong>Eight period instruments</strong> with precise mouse-and-keyboard controls, controller and Steam Deck support</p></li><li><p class=\"bb_paragraph\" ><strong>Graded, combo-driven operations</strong> with ranks to chase in every case, plus Guild Trials and Challenge operations</p></li><li><p class=\"bb_paragraph\" ><strong>Assists and accessibility options:</strong> generous timers, simplified gestures, one-handed play, a Litany key, reduced flashing and gore settings</p></li></ul>",
+  "assets": {
+   "main_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/3e1e5a886c945da17bb5a81d431169208aa9c24a/capsule_616x353.jpg",
+   "main_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/3e1e5a886c945da17bb5a81d431169208aa9c24a/capsule_616x353_2x.jpg",
+   "small_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/468dbdfcdd1f531575574ba543129eb25afba25f/capsule_231x87.jpg",
+   "small_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/468dbdfcdd1f531575574ba543129eb25afba25f/capsule_231x87_2x.jpg",
+   "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/45aa8fe45e5c85949e7581d9a5f3d1585c2b5e25/header.jpg",
+   "header_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/45aa8fe45e5c85949e7581d9a5f3d1585c2b5e25/header_2x.jpg",
+   "page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/8bdf1e7a05b47df3be2e493bb2c30ec56f0fc7d1/page_bg_v6.jpg",
+   "hero_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/bae17e62560a6dd246b89a2c6bcc0162b6217f38/hero_capsule.jpg",
+   "hero_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/bae17e62560a6dd246b89a2c6bcc0162b6217f38/hero_capsule_2x.jpg",
+   "library_capsule": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/1ad1eaac34ec2987473d05cee360e88c166df59c/library_capsule.jpg",
+   "library_capsule_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/1ad1eaac34ec2987473d05cee360e88c166df59c/library_capsule_2x.jpg",
+   "library_hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/caa1e876c54e1d854b481bfb3335bef08e5db415/library_hero.jpg",
+   "library_hero_2x": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/caa1e876c54e1d854b481bfb3335bef08e5db415/library_hero_2x.jpg",
+   "raw_page_background": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/8bdf1e7a05b47df3be2e493bb2c30ec56f0fc7d1/page_bg_raw.jpg"
+  },
+  "screenshots": [
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/bb32b806e480d6ba8ffbd4c3a28e8950943ba626/ss_bb32b806e480d6ba8ffbd4c3a28e8950943ba626.1920x1080.jpg?t=1791021988",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/8bf5ad6b7d5d50961b50c4071e0121f3e918e783/ss_8bf5ad6b7d5d50961b50c4071e0121f3e918e783.1920x1080.jpg?t=1791021988",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/398e21d14202e3d9fb06534d3cff4c254ce2f71e/ss_398e21d14202e3d9fb06534d3cff4c254ce2f71e.1920x1080.jpg?t=1791021988",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/bf16d99054759e63e6e6835d274de9b6079d40d4/ss_bf16d99054759e63e6e6835d274de9b6079d40d4.1920x1080.jpg?t=1791021988",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/b9eeabbe976d7b8450c87f0105e6d643e83e0c9b/ss_b9eeabbe976d7b8450c87f0105e6d643e83e0c9b.1920x1080.jpg?t=1791021988",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/3963571836e7076b9581736fd58618f75be20a7e/ss_3963571836e7076b9581736fd58618f75be20a7e.1920x1080.jpg?t=1791021988",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/65ba13aac4ceb2e7a487ead2e6b32356611beccd/ss_65ba13aac4ceb2e7a487ead2e6b32356611beccd.1920x1080.jpg?t=1791021988",
+   "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339030/9b5e39e701d32948d1d611c7588a742faed9be1d/ss_9b5e39e701d32948d1d611c7588a742faed9be1d.1920x1080.jpg?t=1791021988"
+  ],
+  "movies": [
+   {
+    "name": "GR",
+    "hls": "https://video.akamai.steamstatic.com/store_trailers/5339030/1244883831/20dd54e2f8d96dffe0fa873d1b71063d9200b76b/1790809670/hls_264_master.m3u8?t=1790979995",
+    "dash": "https://video.akamai.steamstatic.com/store_trailers/5339030/1244883831/20dd54e2f8d96dffe0fa873d1b71063d9200b76b/1790809670/dash_h264.mpd?t=1790979995",
+    "thumb": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257438858/28ebd385055a80ea07fe76108ebc6512cacb3163/movie_600x337.jpg?t=1790979995"
+   }
+  ]
+ },
+ {
+  "id": "mothership",
+  "name": "MOTHERSHIP: The Last Stand",
+  "appid": null,
+  "status": "awaiting Steam store page approval",
+  "store_url": null
+ },
+ {
+  "id": "phantasm-catalyst",
+  "name": "Phantasm Catalyst",
+  "appid": null,
+  "status": "awaiting Steam store page approval",
+  "store_url": null
+ },
+ {
+  "id": "springhook",
+  "name": "SPRINGHOOK",
+  "appid": null,
+  "status": "awaiting Steam store page approval",
+  "store_url": null
+ }
+]

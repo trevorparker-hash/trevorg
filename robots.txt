@@ -1,0 +1,9 @@
+# TrevorGames website.
+# Crawlers only read robots.txt from the root of a host, so on
+# trevorparker-hash.github.io this file (under /trevorg/) is ignored.
+# It takes effect once the site is served from its own domain.
+# Change the Sitemap URL below at the same time (see sitemap.xml).
+User-agent: *
+Allow: /
+
+Sitemap: https://trevorparker-hash.github.io/trevorg/sitemap.xml
