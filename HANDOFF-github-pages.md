@@ -24,7 +24,7 @@ before the trailer plays.
 ## Where it lives
 
 - Repo: `trevorparker-hash/trevorg` (public). Branch **`website`** holds the site on top of `main`.
-- Also delivered as a zip (`trevorgames-website.zip`) with the same site files and this document.
+- Also delivered as two zips with the same site files and this document: `trevorgames-website-1-site.zip` (pages, CSS, JS, fonts, web images, video) and `trevorgames-website-2-press.zip` (the press kit's full-size downloads in `site/assets/press/`). Unzip both into the same folder.
 
 **Don't move or rename anything in these folders:** `engagement/`, `fight/`, `street-takeover/`, `field-surgeon/`,
 `trevorgames/`. They hold the clips and images that Trevor's scheduled social posts were uploaded from, and the site
